@@ -36,3 +36,7 @@ for (let i=1;i<=5;i++){
 }
 console.log("-------------------------");
 
+let x=1;
+while (x>0){
+    console.log("Rodando...");
+}
